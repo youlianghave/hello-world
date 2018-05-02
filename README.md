@@ -1,2 +1,3 @@
 # hello-world
-just another reposltory
+只是另一个仓库
+这是一个新的开始，也是一个旧的结束
